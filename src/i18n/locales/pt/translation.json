@@ -1,0 +1,190 @@
+{
+  "header": {
+    "inicio": "Início",
+    "sobre": "Sobre",
+    "equipe": "Equipa",
+    "atividades": "Actividades",
+    "galeria": "Galeria",
+    "contato": "Contacto",
+    "modoClaro": "Modo Claro",
+    "modoEscuro": "Modo Escuro",
+    "selecionarIdioma": "Selecionar Idioma"
+  },
+  "hero": {
+    "titulo": "AMODES - Associação Moçambicana para o Desenvolvimento Social",
+    "subtitulo": "Trabalhando juntos para construir um futuro melhor através de iniciativas sociais e desenvolvimento comunitário.",
+    "botao": "Saiba Mais"
+  },
+  "servicos": {
+    "titulo": "Destaques do que a associação faz",
+    "impactoSocial": {
+      "titulo": "Impacto Social Directo",
+      "descricao": "Mais de 1000 famílias beneficiadas através dos nossos programas sociais e iniciativas comunitárias."
+    },
+    "educacao": {
+      "titulo": "Educação Transformadora",
+      "descricao": "Programas educacionais que já beneficiaram mais de 500 jovens e adultos em situação de vulnerabilidade."
+    },
+    "desenvolvimento": {
+      "titulo": "Desenvolvimento Comunitário",
+      "descricao": "Projectos que fortalecem laços comunitários e promovem o desenvolvimento local sustentável."
+    },
+    "botaoDoe": "Doe Agora",
+    "botaoVoluntario": "Seja Voluntário",
+    "botaoSaibaMais": "Saiba Mais"
+  },
+  "areasAtuacao": {
+    "titulo": "Áreas de Actuação",
+    "descricao": "Conheça as principais áreas onde actuamos para promover o desenvolvimento social e melhorar a qualidade de vida das comunidades.",
+    "areas": {
+      "educacao": {
+        "titulo": "Educação e Cultura",
+        "itens": [
+          "Alfabetização de jovens e adultos",
+          "Reforço escolar para crianças e adolescentes",
+          "Promoção da cultura local e tradições",
+          "Inclusão digital e acesso à informação",
+          "Oficinas de música, dança e teatro"
+        ]
+      },
+      "saude": {
+        "titulo": "Saúde e Bem-estar",
+        "itens": [
+          "Campanhas de prevenção (DSTs, vacinação, higiene)",
+          "Atendimentos médicos e psicológicos gratuitos",
+          "Apoio à saúde mental",
+          "Programas de nutrição e alimentação saudável",
+          "Actividades físicas e promoção de estilos de vida saudáveis"
+        ]
+      },
+      "meioAmbiente": {
+        "titulo": "Meio Ambiente (Mudanças Climáticas)",
+        "itens": [
+          "Educação ambiental e conscientização",
+          "Projectos de reciclagem e gestão de resíduos",
+          "Adaptação e mitigação das mudanças climáticas",
+          "Preservação de recursos naturais",
+          "Agricultura sustentável e agroecologia"
+        ]
+      },
+      "direitosHumanos": {
+        "titulo": "Direitos Humanos",
+        "itens": [
+          "Promoção da igualdade racial e de género",
+          "Defesa dos direitos das crianças, idosos e pessoas com deficiência",
+          "Apoio a vítimas de violência",
+          "Educação para a cidadania",
+          "Acesso à justiça e informação legal"
+        ]
+      },
+      "empoderamento": {
+        "titulo": "Empoderamento Económico Social/Empreendedorismo",
+        "itens": [
+          "Cursos profissionalizantes e capacitação técnica",
+          "Apoio a pequenos empreendedores locais",
+          "Programas de microcrédito e finanças solidárias",
+          "Cooperativas de trabalho e economia solidária",
+          "Incubação de negócios sociais e sustentáveis"
+        ]
+      }
+    }
+  },
+  "projetos": {
+    "titulo": "Actividades Realizadas",
+    "descricao": "Conheça alguns dos nossos projectos e iniciativas que têm transformado comunidades e melhorado a qualidade de vida de milhares de pessoas.",
+    "nenhumaAtividade": "Nenhuma actividade encontrada."
+  },
+  "galeria": {
+    "titulo": "Galeria",
+    "descricao": "Veja imagens dos nossos eventos, projectos e actividades que demonstram o nosso impacto nas comunidades.",
+    "categorias": "Categorias",
+    "todos": "Todos",
+    "nenhumaImagem": "Nenhuma imagem encontrada para esta categoria.",
+    "verTodasCategorias": "Ver todas as categorias",
+    "verMais": "Ver Mais",
+    "carregando": "Carregando..."
+  },
+  "sobre": {
+    "titulo": "Sobre Nós",
+    "historia": {
+      "titulo": "Nossa História",
+      "descricao1": "A AMODES foi fundada em 2010 com o objectivo de promover o desenvolvimento social e económico nas comunidades mais vulneráveis. Nossa jornada começou com pequenas iniciativas locais e hoje impactamos milhares de pessoas através dos nossos programas.",
+      "descricao2": "Trabalhamos em parceria com organizações governamentais e não-governamentais para implementar projectos sustentáveis que atendam às necessidades específicas de cada comunidade, sempre respeitando a sua cultura e valores."
+    },
+    "estatisticas": {
+      "anosExperiencia": "Anos de Experiência",
+      "vidasImpactadas": "Vidas Impactadas"
+    },
+    "compromisso": {
+      "titulo": "Compromisso Social",
+      "descricao": "Transformando vidas desde 2010"
+    }
+  },
+  "quemSomos": {
+    "titulo": "Quem Somos",
+    "missao": {
+      "titulo": "MISSÃO",
+      "descricao": "Promover a igualdade, a justiça social e o desenvolvimento sustentável em Moçambique com foco especial na defesa dos direitos humanos das crianças, jovens, mulheres, idosos e pessoas com deficiência e na promoção da participação equitativa desses grupos nos processos de tomada de decisão."
+    },
+    "visao": {
+      "titulo": "VISÃO",
+      "descricao": "Ser referência nacional como uma associação que promove a justiça, dignidade, empoderamento e acções sustentáveis rumo ao desenvolvimento."
+    },
+    "valores": {
+      "titulo": "VALORES",
+      "itens": [
+        "Inclusão e transparência",
+        "Ética e deontologia profissional",
+        "Respeito e responsabilidade",
+        "Compromisso"
+      ]
+    },
+    "estatisticas": {
+      "familias": "Famílias Atendidas",
+      "areas": "Áreas de Actuação",
+      "projetos": "Projectos Activos",
+      "voluntarios": "Voluntários"
+    },
+    "botoes": {
+      "areasAtuacao": "Nossas Áreas de Actuação",
+      "contato": "Entre em Contacto"
+    }
+  },
+  "equipe": {
+    "titulo": "Nossa Equipa",
+    "descricao": "Conheça os profissionais dedicados que trabalham diariamente para fazer a diferença nas comunidades.",
+    "membroDefault": "Membro dedicado da equipa AMODES, trabalhando para fazer a diferença na comunidade."
+  },
+  "contato": {
+    "titulo": "Entre em Contacto",
+    "descricao": "Tem alguma dúvida ou sugestão? Entre em contacto connosco e estaremos felizes em ajudar.",
+    "formulario": {
+      "nome": "Nome",
+      "email": "Email",
+      "assunto": "Assunto",
+      "mensagem": "Mensagem",
+      "enviar": "Enviar"
+    },
+    "endereco": "Endereço",
+    "telefone": "Telefone",
+    "newsletter": {
+      "titulo": "Newsletter",
+      "descricao": "Inscreva-se para receber as nossas novidades",
+      "placeholder": "Seu email",
+      "botao": "Inscrever-se",
+      "processando": "Processando..."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Links Rápidos",
+    "contatos": "Contactos",
+    "direitos": "© 2023 AMODES. Todos os direitos reservados."
+  },
+  "geral": {
+    "verMais": "Ver Mais",
+    "carregando": "Carregando...",
+    "saibaMais": "Saiba Mais",
+    "semImagem": "Sem imagem",
+    "fechar": "Fechar"
+  }
+} 

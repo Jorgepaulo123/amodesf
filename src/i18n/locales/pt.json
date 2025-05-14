@@ -1,0 +1,195 @@
+{
+  "header": {
+    "inicio": "Início",
+    "sobre": "Sobre",
+    "equipe": "Equipa",
+    "atividades": "Actividades",
+    "galeria": "Galeria",
+    "contato": "Contacto",
+    "modoClaro": "Modo claro",
+    "modoEscuro": "Modo escuro",
+    "selecionarIdioma": "Selecionar idioma"
+  },
+  "hero": {
+    "titulo": "Associação Moçambicana para o Desenvolvimento Sustentável",
+    "subtitulo": "Trabalhando juntos para um futuro melhor",
+    "botaoSaibaMais": "Saiba mais"
+  },
+  "sobre": {
+    "titulo": "Sobre a AMODES",
+    "descricao": "Somos uma organização sem fins lucrativos dedicada ao desenvolvimento sustentável de Moçambique através de projectos nas áreas de educação, saúde, meio ambiente e desenvolvimento comunitário."
+  },
+  "servicos": {
+    "titulo": "Nossos Serviços",
+    "descricao": "Conheça as diferentes formas como actuamos para promover o desenvolvimento sustentável em Moçambique.",
+    "botaoDoe": "Faça uma Doação",
+    "botaoVoluntario": "Seja Voluntário",
+    "botaoSaibaMais": "Saiba Mais"
+  },
+  "areasAtuacao": {
+    "titulo": "Áreas de Actuação",
+    "descricao": "Trabalhamos em diversas áreas para promover o desenvolvimento sustentável em Moçambique.",
+    "educacao": {
+      "titulo": "Educação e Cultura",
+      "itens": [
+        "Alfabetização de adultos",
+        "Formação profissional",
+        "Educação ambiental",
+        "Promoção da cultura local"
+      ]
+    },
+    "saude": {
+      "titulo": "Saúde e Bem-estar",
+      "itens": [
+        "Campanhas de prevenção",
+        "Acesso a água potável",
+        "Nutrição infantil",
+        "Saúde materno-infantil"
+      ]
+    },
+    "ambiente": {
+      "titulo": "Meio Ambiente (Mudanças Climáticas)",
+      "itens": [
+        "Reflorestamento",
+        "Agricultura sustentável",
+        "Gestão de resíduos",
+        "Energias renováveis"
+      ]
+    },
+    "direitos": {
+      "titulo": "Direitos Humanos",
+      "itens": [
+        "Igualdade de género",
+        "Direitos das crianças",
+        "Inclusão social",
+        "Advocacia comunitária"
+      ]
+    },
+    "empreendedorismo": {
+      "titulo": "Empoderamento Económico Social/Empreendedorismo",
+      "itens": [
+        "Microcrédito",
+        "Formação empresarial",
+        "Cooperativas locais",
+        "Acesso a mercados"
+      ]
+    }
+  },
+  "projetos": {
+    "titulo": "Projectos e Actividades",
+    "descricao": "Conheça alguns dos nossos projectos e actividades que estão a transformar vidas em Moçambique.",
+    "nenhumaAtividade": "Nenhuma actividade encontrada."
+  },
+  "quemSomos": {
+    "titulo": "Quem Somos",
+    "missao": {
+      "titulo": "Missão",
+      "descricao": "Promover o desenvolvimento sustentável através de projectos e actividades que melhoram a qualidade de vida das comunidades moçambicanas."
+    },
+    "visao": {
+      "titulo": "Visão",
+      "descricao": "Um Moçambique onde todas as comunidades têm acesso a educação, saúde, recursos naturais preservados e oportunidades económicas."
+    },
+    "valores": {
+      "titulo": "Valores",
+      "itens": [
+        "Transparência e Integridade",
+        "Respeito pela Diversidade",
+        "Sustentabilidade",
+        "Inovação",
+        "Empoderamento Comunitário"
+      ]
+    }
+  },
+  "equipe": {
+    "titulo": "Nossa Equipa",
+    "descricao": "Conheça os profissionais dedicados que trabalham para fazer a diferença em Moçambique.",
+    "nenhumMembro": "Nenhum membro encontrado."
+  },
+  "galeria": {
+    "titulo": "Galeria",
+    "descricao": "Veja imagens dos nossos projectos e actividades em diferentes comunidades.",
+    "nenhumaImagem": "Nenhuma imagem encontrada.",
+    "verMais": "Ver mais"
+  },
+  "contato": {
+    "titulo": "Entre em Contacto",
+    "descricao": "Estamos sempre disponíveis para responder às suas perguntas e receber suas sugestões.",
+    "nome": "Nome completo",
+    "email": "Email",
+    "telefone": "Telefone",
+    "assunto": "Assunto",
+    "mensagem": "Mensagem",
+    "botaoEnviar": "Enviar Mensagem",
+    "enviando": "Enviando...",
+    "sucesso": "Mensagem enviada com sucesso!",
+    "erro": "Erro ao enviar mensagem. Tente novamente.",
+    "newsletter": {
+      "titulo": "Newsletter",
+      "descricao": "Inscreva-se para receber nossas actualizações",
+      "placeholder": "Seu email",
+      "botao": "Inscrever-se",
+      "processando": "Processando...",
+      "sucesso": "Email registado com sucesso!",
+      "erro": "Erro ao registar email. Tente novamente."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Links Rápidos",
+    "contatos": "Contactos",
+    "direitos": "© 2023 AMODES. Todos os direitos reservados."
+  },
+  "geral": {
+    "carregando": "Carregando...",
+    "verMais": "Ver mais",
+    "saibaMais": "Saiba mais",
+    "semImagem": "Sem imagem"
+  },
+  "donation": {
+    "title": "Faça uma Doação",
+    "subtitle": "Ajude-nos a continuar os nossos projectos e actividades para o desenvolvimento sustentável de Moçambique",
+    "name": "Nome completo",
+    "email": "Email",
+    "phone": "Telefone",
+    "amount": "Valor da doação (MZN)",
+    "customAmount": "Outro valor",
+    "message": "Mensagem (opcional)",
+    "messageHelp": "Partilhe connosco o motivo da sua doação ou qualquer outra informação que considere relevante.",
+    "submit": "Doar agora",
+    "processing": "A processar...",
+    "thankYou": "Obrigado pela sua doação!",
+    "successMessage": "A sua contribuição é muito importante para os nossos projectos. Entraremos em contacto em breve.",
+    "newDonation": "Fazer nova doação",
+    "aboutTitle": "Sobre as doações",
+    "aboutText": "As suas doações são essenciais para continuarmos o nosso trabalho em prol do desenvolvimento sustentável de Moçambique. Todos os fundos são utilizados para financiar os nossos projectos e actividades.",
+    "learnMore": "Saiba mais sobre como utilizamos as doações"
+  },
+  "volunteer": {
+    "title": "Seja Voluntário",
+    "subtitle": "Junte-se a nós e contribua para o desenvolvimento sustentável de Moçambique",
+    "name": "Nome completo",
+    "email": "Email",
+    "phone": "Telefone",
+    "city": "Cidade",
+    "interestArea": "Área de interesse",
+    "message": "Mensagem (opcional)",
+    "messageHelp": "Partilhe connosco a sua motivação para ser voluntário ou qualquer outra informação que considere relevante.",
+    "submit": "Inscrever-me",
+    "processing": "A processar...",
+    "thankYou": "Obrigado pelo seu interesse!",
+    "successMessage": "A sua inscrição como voluntário foi recebida com sucesso. Entraremos em contacto em breve.",
+    "newRegistration": "Fazer nova inscrição",
+    "aboutTitle": "Sobre o voluntariado",
+    "aboutText": "O voluntariado é uma forma importante de contribuir para o desenvolvimento sustentável de Moçambique. Como voluntário, você terá a oportunidade de participar em projectos e actividades que fazem a diferença na vida das comunidades.",
+    "learnMore": "Saiba mais sobre o nosso programa de voluntariado",
+    "confirmTitle": "Confirmar Inscrição",
+    "confirmMessage": "Por favor, confirme os dados da sua inscrição:",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar"
+  },
+  "notFound": {
+    "title": "Página Não Encontrada",
+    "message": "Não existe nada aqui. A página que você está procurando não foi encontrada.",
+    "backHome": "Voltar para o Início"
+  }
+} 

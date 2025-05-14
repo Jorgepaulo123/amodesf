@@ -1,0 +1,195 @@
+{
+  "header": {
+    "inicio": "Home",
+    "sobre": "About",
+    "equipe": "Team",
+    "atividades": "Activities",
+    "galeria": "Gallery",
+    "contato": "Contact",
+    "modoClaro": "Light mode",
+    "modoEscuro": "Dark mode",
+    "selecionarIdioma": "Select language"
+  },
+  "hero": {
+    "titulo": "Mozambican Association for Sustainable Development",
+    "subtitulo": "Working together for a better future",
+    "botaoSaibaMais": "Learn more"
+  },
+  "sobre": {
+    "titulo": "About AMODES",
+    "descricao": "We are a non-profit organization dedicated to the sustainable development of Mozambique through projects in education, health, environment, and community development."
+  },
+  "servicos": {
+    "titulo": "Our Services",
+    "descricao": "Learn about the different ways we work to promote sustainable development in Mozambique.",
+    "botaoDoe": "Make a Donation",
+    "botaoVoluntario": "Become a Volunteer",
+    "botaoSaibaMais": "Learn More"
+  },
+  "areasAtuacao": {
+    "titulo": "Areas of Activity",
+    "descricao": "We work in various areas to promote sustainable development in Mozambique.",
+    "educacao": {
+      "titulo": "Education and Culture",
+      "itens": [
+        "Adult literacy",
+        "Professional training",
+        "Environmental education",
+        "Promotion of local culture"
+      ]
+    },
+    "saude": {
+      "titulo": "Health and Well-being",
+      "itens": [
+        "Prevention campaigns",
+        "Access to clean water",
+        "Child nutrition",
+        "Maternal and child health"
+      ]
+    },
+    "ambiente": {
+      "titulo": "Environment (Climate Change)",
+      "itens": [
+        "Reforestation",
+        "Sustainable agriculture",
+        "Waste management",
+        "Renewable energy"
+      ]
+    },
+    "direitos": {
+      "titulo": "Human Rights",
+      "itens": [
+        "Gender equality",
+        "Children's rights",
+        "Social inclusion",
+        "Community advocacy"
+      ]
+    },
+    "empreendedorismo": {
+      "titulo": "Social Economic Empowerment/Entrepreneurship",
+      "itens": [
+        "Microcredit",
+        "Business training",
+        "Local cooperatives",
+        "Market access"
+      ]
+    }
+  },
+  "projetos": {
+    "titulo": "Projects and Activities",
+    "descricao": "Learn about some of our projects and activities that are transforming lives in Mozambique.",
+    "nenhumaAtividade": "No activities found."
+  },
+  "quemSomos": {
+    "titulo": "Who We Are",
+    "missao": {
+      "titulo": "Mission",
+      "descricao": "To promote sustainable development through projects and activities that improve the quality of life of Mozambican communities."
+    },
+    "visao": {
+      "titulo": "Vision",
+      "descricao": "A Mozambique where all communities have access to education, health, preserved natural resources, and economic opportunities."
+    },
+    "valores": {
+      "titulo": "Values",
+      "itens": [
+        "Transparency and Integrity",
+        "Respect for Diversity",
+        "Sustainability",
+        "Innovation",
+        "Community Empowerment"
+      ]
+    }
+  },
+  "equipe": {
+    "titulo": "Our Team",
+    "descricao": "Meet the dedicated professionals who work to make a difference in Mozambique.",
+    "nenhumMembro": "No members found."
+  },
+  "galeria": {
+    "titulo": "Gallery",
+    "descricao": "See images of our projects and activities in different communities.",
+    "nenhumaImagem": "No images found.",
+    "verMais": "See more"
+  },
+  "contato": {
+    "titulo": "Contact Us",
+    "descricao": "We are always available to answer your questions and receive your suggestions.",
+    "nome": "Full name",
+    "email": "Email",
+    "telefone": "Phone",
+    "assunto": "Subject",
+    "mensagem": "Message",
+    "botaoEnviar": "Send Message",
+    "enviando": "Sending...",
+    "sucesso": "Message sent successfully!",
+    "erro": "Error sending message. Please try again.",
+    "newsletter": {
+      "titulo": "Newsletter",
+      "descricao": "Subscribe to receive our updates",
+      "placeholder": "Your email",
+      "botao": "Subscribe",
+      "processando": "Processing...",
+      "sucesso": "Email registered successfully!",
+      "erro": "Error registering email. Please try again."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Quick Links",
+    "contatos": "Contacts",
+    "direitos": "© 2023 AMODES. All rights reserved."
+  },
+  "geral": {
+    "carregando": "Loading...",
+    "verMais": "See more",
+    "saibaMais": "Learn more",
+    "semImagem": "No image"
+  },
+  "donation": {
+    "title": "Make a Donation",
+    "subtitle": "Help us continue our projects and activities for the sustainable development of Mozambique",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "amount": "Donation amount (MZN)",
+    "customAmount": "Other amount",
+    "message": "Message (optional)",
+    "messageHelp": "Share with us the reason for your donation or any other information you consider relevant.",
+    "submit": "Donate now",
+    "processing": "Processing...",
+    "thankYou": "Thank you for your donation!",
+    "successMessage": "Your contribution is very important for our projects. We will contact you soon.",
+    "newDonation": "Make a new donation",
+    "aboutTitle": "About donations",
+    "aboutText": "Your donations are essential for us to continue our work for the sustainable development of Mozambique. All funds are used to finance our projects and activities.",
+    "learnMore": "Learn more about how we use donations"
+  },
+  "volunteer": {
+    "title": "Become a Volunteer",
+    "subtitle": "Join us and contribute to the sustainable development of Mozambique",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "city": "City",
+    "interestArea": "Area of interest",
+    "message": "Message (optional)",
+    "messageHelp": "Share with us your motivation to volunteer or any other information you consider relevant.",
+    "submit": "Register",
+    "processing": "Processing...",
+    "thankYou": "Thank you for your interest!",
+    "successMessage": "Your volunteer registration has been successfully received. We will contact you soon.",
+    "newRegistration": "Register again",
+    "aboutTitle": "About volunteering",
+    "aboutText": "Volunteering is an important way to contribute to the sustainable development of Mozambique. As a volunteer, you will have the opportunity to participate in projects and activities that make a difference in the lives of communities.",
+    "learnMore": "Learn more about our volunteer program",
+    "confirmTitle": "Confirm Registration",
+    "confirmMessage": "Please confirm your registration details:",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "There's nothing here. The page you are looking for was not found.",
+    "backHome": "Back to Home"
+  }
+} 

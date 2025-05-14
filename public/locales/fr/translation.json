@@ -1,0 +1,209 @@
+{
+  "header": {
+    "inicio": "Accueil",
+    "sobre": "À propos",
+    "equipe": "Équipe",
+    "atividades": "Activités",
+    "galeria": "Galerie",
+    "contato": "Contact",
+    "modoClaro": "Mode clair",
+    "modoEscuro": "Mode sombre",
+    "selecionarIdioma": "Sélectionner la langue"
+  },
+  "hero": {
+    "titulo": "AMODES - Association Mozambicaine pour le Développement Durable",
+    "subtitulo": "Travailler ensemble pour construire un avenir meilleur grâce à des initiatives sociales et au développement communautaire.",
+    "botao": "En savoir plus"
+  },
+  "servicos": {
+    "titulo": "Points forts de ce que fait l'association",
+    "impactoSocial": {
+      "titulo": "Impact Social Direct",
+      "descricao": "Plus de 1000 familles bénéficient de nos programmes sociaux et initiatives communautaires."
+    },
+    "educacao": {
+      "titulo": "Éducation Transformatrice",
+      "descricao": "Des programmes éducatifs qui ont déjà bénéficié à plus de 500 jeunes et adultes en situation de vulnérabilité."
+    },
+    "desenvolvimento": {
+      "titulo": "Développement Communautaire",
+      "descricao": "Des projets qui renforcent les liens communautaires et favorisent le développement local durable."
+    },
+    "botaoDoe": "Faire un don",
+    "botaoVoluntario": "Devenir bénévole",
+    "botaoSaibaMais": "En savoir plus"
+  },
+  "areasAtuacao": {
+    "titulo": "Domaines d'action",
+    "descricao": "Découvrez les principaux domaines où nous travaillons pour promouvoir le développement social et améliorer la qualité de vie des communautés.",
+    "areas": {
+      "educacao": {
+        "titulo": "Éducation et Culture",
+        "itens": [
+          "Alphabétisation des jeunes et des adultes",
+          "Soutien scolaire pour enfants et adolescents",
+          "Promotion de la culture locale et des traditions",
+          "Inclusion numérique et accès à l'information",
+          "Ateliers de musique, danse et théâtre"
+        ]
+      },
+      "saude": {
+        "titulo": "Santé et Bien-être",
+        "itens": [
+          "Campagnes de prévention (MST, vaccination, hygiène)",
+          "Soins médicaux et psychologiques gratuits",
+          "Soutien à la santé mentale",
+          "Programmes de nutrition et d'alimentation saine",
+          "Activités physiques et promotion de modes de vie sains"
+        ]
+      },
+      "meioAmbiente": {
+        "titulo": "Environnement (Changement Climatique)",
+        "itens": [
+          "Éducation environnementale et sensibilisation",
+          "Projets de recyclage et gestion des déchets",
+          "Adaptation et atténuation du changement climatique",
+          "Préservation des ressources naturelles",
+          "Agriculture durable et agroécologie"
+        ]
+      },
+      "direitosHumanos": {
+        "titulo": "Droits Humains",
+        "itens": [
+          "Promotion de l'égalité raciale et de genre",
+          "Défense des droits des enfants, des personnes âgées et des personnes handicapées",
+          "Soutien aux victimes de violence",
+          "Éducation à la citoyenneté",
+          "Accès à la justice et à l'information juridique"
+        ]
+      },
+      "empoderamento": {
+        "titulo": "Autonomisation Économique Sociale/Entrepreneuriat",
+        "itens": [
+          "Cours professionnels et formation technique",
+          "Soutien aux petits entrepreneurs locaux",
+          "Programmes de microcrédit et finances solidaires",
+          "Coopératives de travail et économie solidaire",
+          "Incubation d'entreprises sociales et durables"
+        ]
+      }
+    }
+  },
+  "projetos": {
+    "titulo": "Activités Réalisées",
+    "descricao": "Découvrez certains de nos projets et initiatives qui ont transformé des communautés et amélioré la qualité de vie de milliers de personnes.",
+    "nenhumaAtividade": "Aucune activité trouvée."
+  },
+  "galeria": {
+    "titulo": "Galerie",
+    "descricao": "Voir des images de nos événements, projets et activités qui démontrent notre impact sur les communautés.",
+    "categorias": "Catégories",
+    "todos": "Tous",
+    "nenhumaImagem": "Aucune image trouvée pour cette catégorie.",
+    "verTodasCategorias": "Voir toutes les catégories",
+    "verMais": "Voir plus",
+    "carregando": "Chargement..."
+  },
+  "sobre": {
+    "titulo": "À propos de nous",
+    "historia": {
+      "titulo": "Notre Histoire",
+      "descricao1": "AMODES a été fondée en 2010 dans le but de promouvoir le développement social et économique dans les communautés les plus vulnérables. Notre parcours a commencé avec de petites initiatives locales et aujourd'hui nous impactons des milliers de personnes à travers nos programmes.",
+      "descricao2": "Nous travaillons en partenariat avec des organisations gouvernementales et non gouvernementales pour mettre en œuvre des projets durables qui répondent aux besoins spécifiques de chaque communauté, en respectant toujours leur culture et leurs valeurs."
+    },
+    "estatisticas": {
+      "anosExperiencia": "Années d'Expérience",
+      "vidasImpactadas": "Vies Impactées"
+    },
+    "compromisso": {
+      "titulo": "Engagement Social",
+      "descricao": "Transformer des vies depuis 2010"
+    }
+  },
+  "quemSomos": {
+    "titulo": "Qui Sommes-Nous",
+    "missao": {
+      "titulo": "MISSION",
+      "descricao": "Promouvoir l'égalité, la justice sociale et le développement durable au Mozambique avec un accent particulier sur la défense des droits humains des enfants, des jeunes, des femmes, des personnes âgées et des personnes handicapées, et sur la promotion de la participation équitable de ces groupes aux processus de prise de décision."
+    },
+    "visao": {
+      "titulo": "VISION",
+      "descricao": "Être une référence nationale en tant qu'association qui promeut la justice, la dignité, l'autonomisation et les actions durables vers le développement."
+    },
+    "valores": {
+      "titulo": "VALEURS",
+      "itens": [
+        "Inclusion et transparence",
+        "Éthique et déontologie professionnelle",
+        "Respect et responsabilité",
+        "Engagement"
+      ]
+    },
+    "estatisticas": {
+      "familias": "Familles Servies",
+      "areas": "Domaines d'Action",
+      "projetos": "Projets Actifs",
+      "voluntarios": "Bénévoles"
+    },
+    "botoes": {
+      "areasAtuacao": "Nos Domaines d'Action",
+      "contato": "Contactez-nous"
+    }
+  },
+  "equipe": {
+    "titulo": "Notre Équipe",
+    "descricao": "Rencontrez les professionnels dévoués qui travaillent quotidiennement pour faire la différence dans les communautés.",
+    "membroDefault": "Membre dévoué de l'équipe AMODES, travaillant pour faire la différence dans la communauté."
+  },
+  "contato": {
+    "titulo": "Contactez-nous",
+    "descricao": "Vous avez une question ou une suggestion? Contactez-nous et nous serons heureux de vous aider.",
+    "formulario": {
+      "nome": "Nom",
+      "email": "Email",
+      "assunto": "Sujet",
+      "mensagem": "Message",
+      "enviar": "Envoyer"
+    },
+    "endereco": "Adresse",
+    "telefone": "Téléphone",
+    "newsletter": {
+      "titulo": "Newsletter",
+      "descricao": "Inscrivez-vous pour recevoir nos nouvelles",
+      "placeholder": "Votre email",
+      "botao": "S'inscrire",
+      "processando": "Traitement..."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Liens Rapides",
+    "contatos": "Contacts",
+    "direitos": "© 2023 AMODES. Tous droits réservés."
+  },
+  "geral": {
+    "verMais": "Voir plus",
+    "carregando": "Chargement...",
+    "saibaMais": "En savoir plus",
+    "semImagem": "Sans image",
+    "fechar": "Fermer"
+  },
+  "donation": {
+    "title": "Faire un don",
+    "subtitle": "Aidez-nous à poursuivre nos projets et activités pour le développement durable du Mozambique",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "amount": "Montant du don (MZN)",
+    "customAmount": "Autre montant",
+    "message": "Message (facultatif)",
+    "messageHelp": "Partagez avec nous la raison de votre don ou toute autre information que vous jugez pertinente.",
+    "submit": "Donner maintenant",
+    "processing": "Traitement en cours...",
+    "thankYou": "Merci pour votre don !",
+    "successMessage": "Votre contribution est très importante pour nos projets. Nous vous contacterons bientôt.",
+    "newDonation": "Faire un nouveau don",
+    "aboutTitle": "À propos des dons",
+    "aboutText": "Vos dons sont essentiels pour que nous puissions poursuivre notre travail pour le développement durable du Mozambique. Tous les fonds sont utilisés pour financer nos projets et activités.",
+    "learnMore": "En savoir plus sur l'utilisation de vos dons"
+  }
+} 

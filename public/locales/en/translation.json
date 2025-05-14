@@ -1,0 +1,209 @@
+{
+  "header": {
+    "inicio": "Home",
+    "sobre": "About",
+    "equipe": "Team",
+    "atividades": "Activities",
+    "galeria": "Gallery",
+    "contato": "Contact",
+    "modoClaro": "Light Mode",
+    "modoEscuro": "Dark Mode",
+    "selecionarIdioma": "Select Language"
+  },
+  "hero": {
+    "titulo": "AMODES - Mozambican Association for Sustainable Development",
+    "subtitulo": "Working together to build a better future through social initiatives and community development.",
+    "botao": "Learn More"
+  },
+  "servicos": {
+    "titulo": "Highlights of what the association does",
+    "impactoSocial": {
+      "titulo": "Direct Social Impact",
+      "descricao": "More than 1000 families benefited through our social programs and community initiatives."
+    },
+    "educacao": {
+      "titulo": "Transformative Education",
+      "descricao": "Educational programs that have already benefited more than 500 young people and adults in vulnerable situations."
+    },
+    "desenvolvimento": {
+      "titulo": "Community Development",
+      "descricao": "Projects that strengthen community ties and promote sustainable local development."
+    },
+    "botaoDoe": "Donate Now",
+    "botaoVoluntario": "Become a Volunteer",
+    "botaoSaibaMais": "Learn More"
+  },
+  "areasAtuacao": {
+    "titulo": "Areas of Action",
+    "descricao": "Learn about the main areas where we work to promote social development and improve the quality of life in communities.",
+    "areas": {
+      "educacao": {
+        "titulo": "Education and Culture",
+        "itens": [
+          "Youth and adult literacy",
+          "School reinforcement for children and adolescents",
+          "Promotion of local culture and traditions",
+          "Digital inclusion and access to information",
+          "Music, dance and theater workshops"
+        ]
+      },
+      "saude": {
+        "titulo": "Health and Well-being",
+        "itens": [
+          "Prevention campaigns (STDs, vaccination, hygiene)",
+          "Free medical and psychological care",
+          "Mental health support",
+          "Nutrition and healthy eating programs",
+          "Physical activities and promotion of healthy lifestyles"
+        ]
+      },
+      "meioAmbiente": {
+        "titulo": "Environment (Climate Change)",
+        "itens": [
+          "Environmental education and awareness",
+          "Recycling and waste management projects",
+          "Climate change adaptation and mitigation",
+          "Preservation of natural resources",
+          "Sustainable agriculture and agroecology"
+        ]
+      },
+      "direitosHumanos": {
+        "titulo": "Human Rights",
+        "itens": [
+          "Promotion of racial and gender equality",
+          "Defense of the rights of children, elderly and people with disabilities",
+          "Support for victims of violence",
+          "Education for citizenship",
+          "Access to justice and legal information"
+        ]
+      },
+      "empoderamento": {
+        "titulo": "Economic Social Empowerment/Entrepreneurship",
+        "itens": [
+          "Professional courses and technical training",
+          "Support for local small entrepreneurs",
+          "Microcredit programs and solidarity finance",
+          "Work cooperatives and solidarity economy",
+          "Incubation of social and sustainable businesses"
+        ]
+      }
+    }
+  },
+  "projetos": {
+    "titulo": "Activities Performed",
+    "descricao": "Learn about some of our projects and initiatives that have transformed communities and improved the quality of life for thousands of people.",
+    "nenhumaAtividade": "No activities found."
+  },
+  "galeria": {
+    "titulo": "Gallery",
+    "descricao": "See images of our events, projects and activities that demonstrate our impact on communities.",
+    "categorias": "Categories",
+    "todos": "All",
+    "nenhumaImagem": "No images found for this category.",
+    "verTodasCategorias": "See all categories",
+    "verMais": "See More",
+    "carregando": "Loading..."
+  },
+  "sobre": {
+    "titulo": "About Us",
+    "historia": {
+      "titulo": "Our History",
+      "descricao1": "AMODES was founded in 2010 with the aim of promoting social and economic development in the most vulnerable communities. Our journey began with small local initiatives and today we impact thousands of people through our programs.",
+      "descricao2": "We work in partnership with governmental and non-governmental organizations to implement sustainable projects that meet the specific needs of each community, always respecting their culture and values."
+    },
+    "estatisticas": {
+      "anosExperiencia": "Years of Experience",
+      "vidasImpactadas": "Lives Impacted"
+    },
+    "compromisso": {
+      "titulo": "Social Commitment",
+      "descricao": "Transforming lives since 2010"
+    }
+  },
+  "quemSomos": {
+    "titulo": "Who We Are",
+    "missao": {
+      "titulo": "MISSION",
+      "descricao": "To promote equality, social justice and sustainable development in Mozambique with a special focus on defending the human rights of children, youth, women, the elderly and people with disabilities, and promoting the equitable participation of these groups in decision-making processes."
+    },
+    "visao": {
+      "titulo": "VISION",
+      "descricao": "To be a national reference as an association that promotes justice, dignity, empowerment and sustainable actions towards development."
+    },
+    "valores": {
+      "titulo": "VALUES",
+      "itens": [
+        "Inclusion and transparency",
+        "Ethics and professional deontology",
+        "Respect and responsibility",
+        "Commitment"
+      ]
+    },
+    "estatisticas": {
+      "familias": "Families Served",
+      "areas": "Areas of Action",
+      "projetos": "Active Projects",
+      "voluntarios": "Volunteers"
+    },
+    "botoes": {
+      "areasAtuacao": "Our Areas of Action",
+      "contato": "Contact Us"
+    }
+  },
+  "equipe": {
+    "titulo": "Our Team",
+    "descricao": "Meet the dedicated professionals who work daily to make a difference in communities.",
+    "membroDefault": "Dedicated AMODES team member, working to make a difference in the community."
+  },
+  "contato": {
+    "titulo": "Contact Us",
+    "descricao": "Have a question or suggestion? Contact us and we'll be happy to help.",
+    "formulario": {
+      "nome": "Name",
+      "email": "Email",
+      "assunto": "Subject",
+      "mensagem": "Message",
+      "enviar": "Send"
+    },
+    "endereco": "Address",
+    "telefone": "Phone",
+    "newsletter": {
+      "titulo": "Newsletter",
+      "descricao": "Subscribe to receive our news",
+      "placeholder": "Your email",
+      "botao": "Subscribe",
+      "processando": "Processing..."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Quick Links",
+    "contatos": "Contacts",
+    "direitos": "© 2023 AMODES. All rights reserved."
+  },
+  "geral": {
+    "verMais": "See More",
+    "carregando": "Loading...",
+    "saibaMais": "Learn More",
+    "semImagem": "No image",
+    "fechar": "Close"
+  },
+  "donation": {
+    "title": "Make a Donation",
+    "subtitle": "Help us continue our projects and activities for sustainable development in Mozambique",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "amount": "Donation amount (MZN)",
+    "customAmount": "Other amount",
+    "message": "Message (optional)",
+    "messageHelp": "Share with us the reason for your donation or any other information you consider relevant.",
+    "submit": "Donate now",
+    "processing": "Processing...",
+    "thankYou": "Thank you for your donation!",
+    "successMessage": "Your contribution is very important for our projects. We will contact you soon.",
+    "newDonation": "Make a new donation",
+    "aboutTitle": "About donations",
+    "aboutText": "Your donations are essential for us to continue our work towards sustainable development in Mozambique. All funds are used to finance our projects and activities.",
+    "learnMore": "Learn more about how we use donations"
+  }
+} 

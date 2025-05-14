@@ -1,0 +1,100 @@
+{
+  "header": {
+    "inicio": "Accueil",
+    "sobre": "À Propos",
+    "equipe": "Équipe",
+    "atividades": "Activités",
+    "galeria": "Galerie",
+    "contato": "Contact",
+    "modoClaro": "Mode Clair",
+    "modoEscuro": "Mode Sombre",
+    "selecionarIdioma": "Sélectionner la Langue"
+  },
+  "hero": {
+    "titulo": "AMODES - Association pour le Développement Social",
+    "subtitulo": "Travailler ensemble pour construire un avenir meilleur grâce à des initiatives sociales et au développement communautaire.",
+    "botao": "En Savoir Plus"
+  },
+  "servicos": {
+    "titulo": "Points forts de ce que fait l'association",
+    "impactoSocial": {
+      "titulo": "Impact Social Direct",
+      "descricao": "Plus de 1000 familles bénéficient de nos programmes sociaux et initiatives communautaires."
+    },
+    "educacao": {
+      "titulo": "Éducation Transformative",
+      "descricao": "Des programmes éducatifs qui ont déjà bénéficié à plus de 500 jeunes et adultes en situation de vulnérabilité."
+    },
+    "desenvolvimento": {
+      "titulo": "Développement Communautaire",
+      "descricao": "Des projets qui renforcent les liens communautaires et favorisent le développement local durable."
+    },
+    "botaoDoe": "Faites un Don",
+    "botaoVoluntario": "Devenez Bénévole",
+    "botaoSaibaMais": "En Savoir Plus"
+  },
+  "areasAtuacao": {
+    "titulo": "Domaines d'Action",
+    "descricao": "Découvrez les principaux domaines dans lesquels nous travaillons pour promouvoir le développement social et améliorer la qualité de vie des communautés."
+  },
+  "galeria": {
+    "titulo": "Galerie",
+    "descricao": "Voir des images de nos événements, projets et activités qui démontrent notre impact sur les communautés.",
+    "categorias": "Catégories",
+    "todos": "Tous",
+    "nenhumaImagem": "Aucune image trouvée pour cette catégorie.",
+    "verTodasCategorias": "Voir toutes les catégories",
+    "verMais": "Voir Plus",
+    "carregando": "Chargement..."
+  },
+  "sobre": {
+    "titulo": "À Propos de Nous",
+    "historia": {
+      "titulo": "Notre Histoire",
+      "descricao1": "AMODES a été fondée en 2010 dans le but de promouvoir le développement social et économique dans les communautés les plus vulnérables. Notre voyage a commencé par de petites initiatives locales, et aujourd'hui, nous impactons des milliers de personnes à travers nos programmes.",
+      "descricao2": "Nous travaillons en partenariat avec des organisations gouvernementales et non gouvernementales pour mettre en œuvre des projets durables qui répondent aux besoins spécifiques de chaque communauté, tout en respectant leur culture et leurs valeurs."
+    },
+    "estatisticas": {
+      "anosExperiencia": "Années d'Expérience",
+      "vidasImpactadas": "Vies Impactées"
+    },
+    "compromisso": {
+      "titulo": "Engagement Social",
+      "descricao": "Transformer des vies depuis 2010"
+    }
+  },
+  "equipe": {
+    "titulo": "Notre Équipe",
+    "descricao": "Rencontrez les professionnels dévoués qui travaillent quotidiennement pour faire la différence dans les communautés.",
+    "membroDefault": "Membre dévoué de l'équipe AMODES, travaillant pour faire la différence dans la communauté."
+  },
+  "contato": {
+    "titulo": "Contactez-Nous",
+    "descricao": "Vous avez une question ou une suggestion? Contactez-nous et nous serons heureux de vous aider.",
+    "formulario": {
+      "nome": "Nom",
+      "email": "E-mail",
+      "assunto": "Sujet",
+      "mensagem": "Message",
+      "enviar": "Envoyer"
+    },
+    "endereco": "Adresse",
+    "telefone": "Téléphone",
+    "newsletter": {
+      "titulo": "Bulletin d'Information",
+      "descricao": "Abonnez-vous pour recevoir nos actualités",
+      "placeholder": "Votre e-mail",
+      "botao": "S'abonner",
+      "processando": "Traitement..."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Liens Rapides",
+    "contatos": "Contacts",
+    "direitos": "© 2023 AMODES. Tous droits réservés."
+  },
+  "geral": {
+    "verMais": "Voir Plus",
+    "carregando": "Chargement..."
+  }
+} 

@@ -1,0 +1,100 @@
+{
+  "header": {
+    "inicio": "Inicio",
+    "sobre": "Sobre",
+    "equipe": "Equipo",
+    "atividades": "Actividades",
+    "galeria": "Galería",
+    "contato": "Contacto",
+    "modoClaro": "Modo Claro",
+    "modoEscuro": "Modo Oscuro",
+    "selecionarIdioma": "Seleccionar Idioma"
+  },
+  "hero": {
+    "titulo": "AMODES - Asociación para el Desarrollo Social",
+    "subtitulo": "Trabajando juntos para construir un futuro mejor a través de iniciativas sociales y desarrollo comunitario.",
+    "botao": "Saber Más"
+  },
+  "servicos": {
+    "titulo": "Aspectos destacados de lo que hace la asociación",
+    "impactoSocial": {
+      "titulo": "Impacto Social Directo",
+      "descricao": "Más de 1000 familias beneficiadas a través de nuestros programas sociales e iniciativas comunitarias."
+    },
+    "educacao": {
+      "titulo": "Educación Transformadora",
+      "descricao": "Programas educativos que ya han beneficiado a más de 500 jóvenes y adultos en situaciones vulnerables."
+    },
+    "desenvolvimento": {
+      "titulo": "Desarrollo Comunitario",
+      "descricao": "Proyectos que fortalecen los lazos comunitarios y promueven el desarrollo local sostenible."
+    },
+    "botaoDoe": "Donar Ahora",
+    "botaoVoluntario": "Sé Voluntario",
+    "botaoSaibaMais": "Saber Más"
+  },
+  "areasAtuacao": {
+    "titulo": "Áreas de Actuación",
+    "descricao": "Conozca las principales áreas donde trabajamos para promover el desarrollo social y mejorar la calidad de vida de las comunidades."
+  },
+  "galeria": {
+    "titulo": "Galería",
+    "descricao": "Vea imágenes de nuestros eventos, proyectos y actividades que demuestran nuestro impacto en las comunidades.",
+    "categorias": "Categorías",
+    "todos": "Todos",
+    "nenhumaImagem": "No se encontraron imágenes para esta categoría.",
+    "verTodasCategorias": "Ver todas las categorías",
+    "verMais": "Ver Más",
+    "carregando": "Cargando..."
+  },
+  "sobre": {
+    "titulo": "Sobre Nosotros",
+    "historia": {
+      "titulo": "Nuestra Historia",
+      "descricao1": "AMODES fue fundada en 2010 con el objetivo de promover el desarrollo social y económico en las comunidades más vulnerables. Nuestro viaje comenzó con pequeñas iniciativas locales, y hoy impactamos a miles de personas a través de nuestros programas.",
+      "descricao2": "Trabajamos en asociación con organizaciones gubernamentales y no gubernamentales para implementar proyectos sostenibles que satisfagan las necesidades específicas de cada comunidad, siempre respetando su cultura y valores."
+    },
+    "estatisticas": {
+      "anosExperiencia": "Años de Experiencia",
+      "vidasImpactadas": "Vidas Impactadas"
+    },
+    "compromisso": {
+      "titulo": "Compromiso Social",
+      "descricao": "Transformando vidas desde 2010"
+    }
+  },
+  "equipe": {
+    "titulo": "Nuestro Equipo",
+    "descricao": "Conozca a los profesionales dedicados que trabajan diariamente para marcar la diferencia en las comunidades.",
+    "membroDefault": "Miembro dedicado del equipo AMODES, trabajando para marcar la diferencia en la comunidad."
+  },
+  "contato": {
+    "titulo": "Contáctenos",
+    "descricao": "¿Tiene una pregunta o sugerencia? Contáctenos y estaremos encantados de ayudarle.",
+    "formulario": {
+      "nome": "Nombre",
+      "email": "Correo Electrónico",
+      "assunto": "Asunto",
+      "mensagem": "Mensaje",
+      "enviar": "Enviar"
+    },
+    "endereco": "Dirección",
+    "telefone": "Teléfono",
+    "newsletter": {
+      "titulo": "Boletín Informativo",
+      "descricao": "Suscríbase para recibir nuestras noticias",
+      "placeholder": "Su correo electrónico",
+      "botao": "Suscribirse",
+      "processando": "Procesando..."
+    }
+  },
+  "footer": {
+    "linksRapidos": "Enlaces Rápidos",
+    "contatos": "Contactos",
+    "direitos": "© 2023 AMODES. Todos los derechos reservados."
+  },
+  "geral": {
+    "verMais": "Ver Más",
+    "carregando": "Cargando..."
+  }
+} 
