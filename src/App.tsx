@@ -524,7 +524,7 @@ function App() {
       setIsLoadingHeroImages(true);
       try {
         console.log('Buscando imagens para o hero...');
-        const response = await fetch('http://127.0.0.1:8000/galeria/random/?limite=4', {
+        const response = await fetch('https://amodes.onrender.com/galeria/random/?limite=4', {
           method: 'GET',
           headers: {
             'Accept': 'application/json',
@@ -609,7 +609,7 @@ function App() {
       formBody.append('email', formData.email);
       formBody.append('mensagem', formData.message);
 
-      const response = await fetch('https://vidplusmz.vercel.app/enviar-email/', {
+      const response = await fetch('https://amodes.onrender.com/enviar-email/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
@@ -655,7 +655,7 @@ function App() {
       const formBody = new URLSearchParams();
       formBody.append('email', newsletterEmail);
       
-      const response = await fetch('http://127.0.0.1:8000/newsletter/', {
+      const response = await fetch('https://amodes.onrender.com/newsletter/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
@@ -754,7 +754,7 @@ function App() {
       setIsLoadingPublicacoes(true);
       try {
         console.log('Iniciando busca de publicações...');
-        const response = await fetch('http://127.0.0.1:8000/publicacoes/?skip=0&limit=5', {
+        const response = await fetch('https://amodes.onrender.com/publicacoes/?skip=0&limit=5', {
           method: 'GET',
           headers: {
             'Accept': 'application/json',
@@ -840,7 +840,7 @@ function App() {
   const loadMore = async () => {
     setIsLoadingMore(true);
     try {
-      const response = await fetch(`http://127.0.0.1:8000/publicacoes/?skip=${publicacoes.length}&limit=4`, {
+      const response = await fetch(`https://amodes.onrender.com/publicacoes/?skip=${publicacoes.length}&limit=4`, {
         method: 'GET',
         headers: {
           'Accept': 'application/json',
@@ -874,7 +874,7 @@ function App() {
       setIsLoadingMembros(true);
       try {
         console.log('Buscando membros da equipe...');
-        const response = await fetch('http://127.0.0.1:8000/membros/?skip=0&limit=100', {
+        const response = await fetch('https://amodes.onrender.com/membros/?skip=0&limit=100', {
           method: 'GET',
           headers: {
             'Accept': 'application/json',
@@ -970,7 +970,7 @@ function App() {
       setIsLoadingCategorias(true);
       try {
         console.log('Buscando categorias...');
-        const response = await fetch('http://127.0.0.1:8000/categorias/?skip=0&limit=100', {
+        const response = await fetch('https://amodes.onrender.com/categorias/?skip=0&limit=100', {
           method: 'GET',
           headers: {
             'Accept': 'application/json',
@@ -1024,8 +1024,8 @@ function App() {
         
         // Construir URL com ou sem o parâmetro de categoria
         const url = categoriaAtiva === "Todos" 
-          ? 'http://127.0.0.1:8000/galeria/?skip=0&limit=100' 
-          : `http://127.0.0.1:8000/galeria/?categoria=${encodeURIComponent(categoriaAtiva)}&skip=0&limit=100`;
+          ? 'https://amodes.onrender.com/galeria/?skip=0&limit=100' 
+          : `https://amodes.onrender.com/galeria/?categoria=${encodeURIComponent(categoriaAtiva)}&skip=0&limit=100`;
         
         const response = await fetch(url, {
           method: 'GET',
@@ -1130,7 +1130,7 @@ function App() {
     setDonationError('');
     
     try {
-      const response = await fetch('http://127.0.0.1:8000/doacoes/', {
+      const response = await fetch('https://amodes.onrender.com/doacoes/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -1178,7 +1178,7 @@ function App() {
     setContactStatus('idle');
     
     try {
-      const response = await fetch('http://127.0.0.1:8000/enviar-email', {
+      const response = await fetch('https://amodes.onrender.com/enviar-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

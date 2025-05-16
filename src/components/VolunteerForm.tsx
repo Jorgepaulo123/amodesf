@@ -42,7 +42,7 @@ const VolunteerForm: React.FC = () => {
     setShowConfirmation(false);
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/voluntarios/', {
+      const response = await fetch('https://amodes.onrender.com/voluntarios/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

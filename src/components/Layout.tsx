@@ -98,7 +98,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       const formBody = new URLSearchParams();
       formBody.append('email', newsletterEmail);
       
-      const response = await fetch('http://127.0.0.1:8000/newsletter/', {
+      const response = await fetch('https://amodes.onrender.com/newsletter/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
