@@ -388,7 +388,7 @@ function App() {
     },
     {
       title: t('areasAtuacao.areas.empoderamento.titulo', 'Empoderamento Econômico Social/Empreendedorismo'),
-      icon: <DollarSign className="w-12 h-12 text-cyan-500" />,
+      icon: <Users2 className="w-12 h-12 text-cyan-500" />,
       items: t('areasAtuacao.areas.empoderamento.itens', { returnObjects: true }) as string[]
     }
   ];
@@ -545,14 +545,14 @@ function App() {
           // Fallback para imagens padrão se a API não retornar nada
           setHeroImages([
             {
-              url: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+              url: "https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1749635227_5b6dbf8f.jpeg",
               titulo_publicacao: "Trabalho em Equipe",
               categoria: "institucional",
               data: new Date().toISOString(),
               publicacao_id: 1
             },
             {
-              url: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+              url: "https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1749635227_5b6dbf8f.jpeg",
               titulo_publicacao: "Reunião Estratégica",
               categoria: "reuniao",
               data: new Date().toISOString(),
@@ -565,14 +565,14 @@ function App() {
         // Definir imagens de fallback em caso de erro
         setHeroImages([
           {
-            url: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+            url: "https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1749635227_5b6dbf8f.jpeg",
             titulo_publicacao: "Trabalho em Equipe",
             categoria: "institucional",
             data: new Date().toISOString(),
             publicacao_id: 1
           },
           {
-            url: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+            url: "https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1749635227_5b6dbf8f.jpeg",
             titulo_publicacao: "Reunião Estratégica",
             categoria: "reuniao",
             data: new Date().toISOString(),
@@ -1434,7 +1434,7 @@ function App() {
           <div className="container mx-auto px-6 relative z-10 h-full flex flex-col justify-center" style={{ paddingTop: '4rem', paddingBottom: '4rem', minHeight: '70vh' }}>
             <div className="max-w-3xl" data-aos="fade-right">
               <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-5 leading-tight">
-                Associação Moçambicana para o desenvolvimento sustentável-AMODES
+                Associação Moçambicana de Desenvolvimento Sustentável
               </h1>
               <p className="text-lg md:text-xl text-white mb-6 max-w-2xl">
                 Agir para impactar
@@ -1505,7 +1505,7 @@ function App() {
 
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                src="https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1749635227_5b6dbf8f.jpeg"
                 alt="Impacto na Comunidade"
                 className="rounded-lg shadow-xl"
               />
@@ -1753,7 +1753,7 @@ function App() {
                 className="relative"
               >
                 <img 
-                  src="https://images.unsplash.com/photo-1509099836639-18ba1795216d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                  src="https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1749635227_5b6dbf8f.jpeg"
                   alt="Impacto na Comunidade"
                   className="rounded-xl shadow-2xl w-full"
                 />
@@ -2091,7 +2091,7 @@ function App() {
 
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+                src="https://storage.googleapis.com/amodes-344f3.firebasestorage.app/publicacoes/1747916617_3966b27e.jpeg"
                 alt="Equipe AMODES em reunião"
                 className="rounded-lg shadow-xl w-full object-cover"
               />
@@ -2259,7 +2259,7 @@ function App() {
                         {t('contato.enviando')}
                       </>
                     ) : (
-                      t('contato.botaoEnviar')
+                      t('Enviar')
                     )}
                   </button>
                 </form>
@@ -2274,7 +2274,7 @@ function App() {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-cyan-900 dark:text-white">{t('contato.endereco')}</h4>
-                    <p className="text-cyan-700 dark:text-cyan-200">Hotel girasol, 123, Lichinga</p>
+                    <p className="text-cyan-700 dark:text-cyan-200">Niassa, Lichinga</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -2283,7 +2283,7 @@ function App() {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-cyan-900 dark:text-white">{t('contato.telefone')}</h4>
-                    <p className="text-cyan-700 dark:text-cyan-200">(12) 3456-7890</p>
+                    <p className="text-cyan-700 dark:text-cyan-200">258845381847</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -2372,7 +2372,7 @@ function App() {
                   />
                 </a>
               </div>
-              <h5 className="text-cyan-300 font-semibold mb-2">Associação Moçambicana para o desenvolvimento sustentável-AMODES</h5>
+              <h5 className="text-cyan-300 font-semibold mb-2">Associação  Moçambicana de Desenvolvimento Sustentável</h5>
               <p className="text-cyan-400">Agir para impactar</p>
             </div>
 
@@ -2407,12 +2407,9 @@ function App() {
               <div className="space-y-3">
                 <p className="flex items-center space-x-3 text-cyan-400">
                   <Phone className="w-5 h-5" />
-                  <span>(12) 3456-7890</span>
+                  <span>258845381847</span>
                 </p>
-                <p className="flex items-center space-x-3 text-cyan-400">
-                  <MessageCircle className="w-5 h-5" />
-                  <span>(12) 9876-5432 (WhatsApp)</span>
-                </p>
+                
                 <p className="flex items-center space-x-3 text-cyan-400">
                   <Mail className="w-5 h-5 flex-shrink-0" />
                   <span className="break-all">contacto@amodes.com</span>
