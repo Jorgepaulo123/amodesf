@@ -2312,7 +2312,7 @@ function App() {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-cyan-900 dark:text-white">Email</h4>
-                    <p className="text-cyan-700 dark:text-cyan-200">contato@amodes.com</p>
+                    <p className="text-cyan-700 dark:text-cyan-200">amodesassociacao@gmail.com</p>
                   </div>
                 </div>
               </div>
