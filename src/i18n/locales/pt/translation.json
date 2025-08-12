@@ -35,56 +35,72 @@
   },
   "areasAtuacao": {
     "titulo": "Áreas de Actuação",
-    "descricao": "Conheça as principais áreas onde actuamos para promover o desenvolvimento social e melhorar a qualidade de vida das comunidades.",
+    "descricao": "Conheça as principais áreas onde actuamos e os objectivos que nos guiam.",
     "areas": {
-      "educacao": {
-        "titulo": "Educação e Cultura",
+      "pazDemocracia": {
+        "titulo": "Paz, Democracia e Boa Governação",
+        "objetivo": "Promover a cultura da paz, a participação cívica da juventude e o fortalecimento das instituições democráticas.",
         "itens": [
-          "Alfabetização de jovens e adultos",
-          "Reforço escolar para crianças e adolescentes",
-          "Promoção da cultura local e tradições",
-          "Inclusão digital e acesso à informação",
-          "Oficinas de música, dança e teatro"
+          "Participação política da juventude",
+          "Processos democráticos",
+          "Segurança comunitária e prevenção de conflitos"
         ]
       },
-      "saude": {
-        "titulo": "Saúde e Bem-estar",
+      "saudeGenero": {
+        "titulo": "Saúde, Direitos e Justiça de Género",
+        "objetivo": "Defender os direitos humanos com enfoque especial na saúde sexual e reprodutiva, igualdade de género e justiça social.",
         "itens": [
-          "Campanhas de prevenção (DSTs, vacinação, higiene)",
-          "Atendimentos médicos e psicológicos gratuitos",
-          "Apoio à saúde mental",
-          "Programas de nutrição e alimentação saudável",
-          "Actividades físicas e promoção de estilos de vida saudáveis"
+          "Saúde sexual e reprodutiva",
+          "Igualdade de género",
+          "Engajamento masculino comunitário",
+          "Ação feminista para justiça climática",
+          "Resposta humanitária"
         ]
       },
       "meioAmbiente": {
-        "titulo": "Meio Ambiente (Mudanças Climáticas)",
+        "titulo": "Meio ambiente (Mudanças Climáticas)",
+        "objetivo": "Promover ações resilientes às mudanças climáticas com inclusão de comunidades rurais e jovens no desenvolvimento sustentável.",
         "itens": [
-          "Educação ambiental e conscientização",
-          "Projectos de reciclagem e gestão de resíduos",
-          "Adaptação e mitigação das mudanças climáticas",
-          "Preservação de recursos naturais",
-          "Agricultura sustentável e agroecologia"
+          "Agricultura sustentável",
+          "Justiça climática",
+          "Educação ambiental",
+          "Resiliência e adaptação comunitária"
         ]
       },
-      "direitosHumanos": {
-        "titulo": "Direitos Humanos",
+      "educacaoCiencia": {
+        "titulo": "Educação, Ciência e Inovação",
+        "objetivo": "Garantir acesso equitativo à educação de qualidade, com foco em ciência, tecnologia e inovação como ferramentas de transformação social.",
         "itens": [
-          "Promoção da igualdade racial e de género",
-          "Defesa dos direitos das crianças, idosos e pessoas com deficiência",
-          "Apoio a vítimas de violência",
-          "Educação para a cidadania",
-          "Acesso à justiça e informação legal"
+          "Educação formal e informal",
+          "Ciência e tecnologia",
+          "Formação digital e técnica"
         ]
       },
-      "empoderamento": {
-        "titulo": "Empoderamento Económico Social/Empreendedorismo",
+      "juventudeEmpreendedorismo": {
+        "titulo": "Juventude, Empreendedorismo e Habilitação para a Vida",
+        "objetivo": "Fortalecer capacidades empreendedoras da juventude, promovendo inclusão económica e habilidades para a vida.",
         "itens": [
-          "Cursos profissionalizantes e capacitação técnica",
-          "Apoio a pequenos empreendedores locais",
-          "Programas de microcrédito e finanças solidárias",
-          "Cooperativas de trabalho e economia solidária",
-          "Incubação de negócios sociais e sustentáveis"
+          "Empreendedorismo jovem",
+          "Formação em habilidades para a vida",
+          "Inclusão económica de grupos vulneráveis"
+        ]
+      },
+      "direitosJustica": {
+        "titulo": "Direitos Humanos e Justiça Social",
+        "objetivo": "Defender os direitos fundamentais, promover equidade, justiça social e combate à discriminação em todas as formas.",
+        "itens": [
+          "Direitos humanos",
+          "Participação do cidadão",
+          "Advocacia"
+        ]
+      },
+      "engajamentoLideranca": {
+        "titulo": "Engajamento Comunitário e Liderança Inclusiva",
+        "objetivo": "Estimular o envolvimento ativo das comunidades, com enfoque na liderança jovem e inclusão de todos os grupos sociais.",
+        "itens": [
+          "Fortalecimento de lideranças locais",
+          "Engajamento masculino e feminino para igualdade",
+          "Mobilização comunitária"
         ]
       }
     }
@@ -108,7 +124,7 @@
     "titulo": "Sobre Nós",
     "historia": {
       "titulo": "Nossa História",
-      "descricao1": "A AMODES foi fundada em 2010 com o objectivo de promover o desenvolvimento social e económico nas comunidades mais vulneráveis. Nossa jornada começou com pequenas iniciativas locais e hoje impactamos milhares de pessoas através dos nossos programas.",
+      "descricao1": "A AMODES foi fundada em 2021 com o objectivo de promover o desenvolvimento social e económico nas comunidades mais vulneráveis. Nossa jornada começou com pequenas iniciativas locais e hoje impactamos milhares de pessoas através dos nossos programas.",
       "descricao2": "Trabalhamos em parceria com organizações governamentais e não-governamentais para implementar projectos sustentáveis que atendam às necessidades específicas de cada comunidade, sempre respeitando a sua cultura e valores."
     },
     "estatisticas": {
@@ -117,7 +133,7 @@
     },
     "compromisso": {
       "titulo": "Compromisso Social",
-      "descricao": "Transformando vidas desde 2010"
+      "descricao": "Transformando vidas desde 2021"
     }
   },
   "quemSomos": {

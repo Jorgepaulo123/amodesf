@@ -382,7 +382,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 </p>
                 <p className="flex items-center space-x-3 text-cyan-400">
                   <Mail className="w-5 h-5 flex-shrink-0" />
-                  <span className="break-all">contacto@amodes.com</span>
+                  <span className="break-all">amodesassociacao@gmail.com</span>
                 </p>
                 <p className="flex items-center space-x-3 text-cyan-400">
                   <MapPin className="w-5 h-5" />

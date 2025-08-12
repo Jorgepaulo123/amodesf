@@ -364,32 +364,49 @@ function App() {
   
   // Comentários removidos para evitar referências a variáveis não definidas
   
-  // Definir as áreas de atuação com acesso à função t
+  // Definir as áreas de atuação com acesso à função t (7 áreas com objectivos)
   const areasAtuacao = [
     {
-      title: t('areasAtuacao.areas.educacao.titulo', 'Educação e Cultura'),
-      icon: <BookOpen className="w-12 h-12 text-cyan-500" />,
-      items: t('areasAtuacao.areas.educacao.itens', { returnObjects: true }) as string[]
+      title: t('areasAtuacao.areas.pazDemocracia.titulo', 'Paz, Democracia e Boa Governação'),
+      icon: <Globe className="w-12 h-12 text-cyan-500" />,
+      objective: t('areasAtuacao.areas.pazDemocracia.objetivo', 'Promover a cultura da paz, a participação cívica da juventude e o fortalecimento das instituições democráticas.'),
+      items: t('areasAtuacao.areas.pazDemocracia.itens', { returnObjects: true }) as string[]
     },
     {
-      title: t('areasAtuacao.areas.saude.titulo', 'Saúde e Bem-estar'),
+      title: t('areasAtuacao.areas.saudeGenero.titulo', 'Saúde, Direitos e Justiça de Género'),
       icon: <Heart className="w-12 h-12 text-cyan-500" />,
-      items: t('areasAtuacao.areas.saude.itens', { returnObjects: true }) as string[]
+      objective: t('areasAtuacao.areas.saudeGenero.objetivo', 'Defender os direitos humanos com enfoque especial na saúde sexual e reprodutiva, igualdade de género e justiça social.'),
+      items: t('areasAtuacao.areas.saudeGenero.itens', { returnObjects: true }) as string[]
     },
     {
-      title: t('areasAtuacao.areas.meioAmbiente.titulo', 'Meio Ambiente (Mudanças Climáticas)'),
+      title: t('areasAtuacao.areas.meioAmbiente.titulo', 'Meio ambiente (Mudanças Climáticas)'),
       icon: <Leaf className="w-12 h-12 text-cyan-500" />,
+      objective: t('areasAtuacao.areas.meioAmbiente.objetivo', 'Promover ações resilientes às mudanças climáticas com inclusão de comunidades rurais e jovens no desenvolvimento sustentável.'),
       items: t('areasAtuacao.areas.meioAmbiente.itens', { returnObjects: true }) as string[]
     },
     {
-      title: t('areasAtuacao.areas.direitosHumanos.titulo', 'Direitos Humanos'),
-      icon: <Scale className="w-12 h-12 text-cyan-500" />,
-      items: t('areasAtuacao.areas.direitosHumanos.itens', { returnObjects: true }) as string[]
+      title: t('areasAtuacao.areas.educacaoCiencia.titulo', 'Educação, Ciência e Inovação'),
+      icon: <BookOpen className="w-12 h-12 text-cyan-500" />,
+      objective: t('areasAtuacao.areas.educacaoCiencia.objetivo', 'Garantir acesso equitativo à educação de qualidade, com foco em ciência, tecnologia e inovação como ferramentas de transformação social.'),
+      items: t('areasAtuacao.areas.educacaoCiencia.itens', { returnObjects: true }) as string[]
     },
     {
-      title: t('areasAtuacao.areas.empoderamento.titulo', 'Empoderamento Econômico Social/Empreendedorismo'),
+      title: t('areasAtuacao.areas.juventudeEmpreendedorismo.titulo', 'Juventude, Empreendedorismo e Habilitação para a Vida'),
       icon: <Users2 className="w-12 h-12 text-cyan-500" />,
-      items: t('areasAtuacao.areas.empoderamento.itens', { returnObjects: true }) as string[]
+      objective: t('areasAtuacao.areas.juventudeEmpreendedorismo.objetivo', 'Fortalecer capacidades empreendedoras da juventude, promovendo inclusão económica e habilidades para a vida.'),
+      items: t('areasAtuacao.areas.juventudeEmpreendedorismo.itens', { returnObjects: true }) as string[]
+    },
+    {
+      title: t('areasAtuacao.areas.direitosJustica.titulo', 'Direitos Humanos e Justiça Social'),
+      icon: <Scale className="w-12 h-12 text-cyan-500" />,
+      objective: t('areasAtuacao.areas.direitosJustica.objetivo', 'Defender os direitos fundamentais, promover equidade, justiça social e combate à discriminação em todas as formas.'),
+      items: t('areasAtuacao.areas.direitosJustica.itens', { returnObjects: true }) as string[]
+    },
+    {
+      title: t('areasAtuacao.areas.engajamentoLideranca.titulo', 'Engajamento Comunitário e Liderança Inclusiva'),
+      icon: <Users2 className="w-12 h-12 text-cyan-500" />,
+      objective: t('areasAtuacao.areas.engajamentoLideranca.objetivo', 'Estimular o envolvimento ativo das comunidades, com enfoque na liderança jovem e inclusão de todos os grupos sociais.'),
+      items: t('areasAtuacao.areas.engajamentoLideranca.itens', { returnObjects: true }) as string[]
     }
   ];
 
@@ -898,7 +915,7 @@ function App() {
               id: 1,
               nome: "Ana Silva",
               cargo: "Directora Executiva",
-              descricao: "Mais de 15 anos de experiência em gestão de projectos sociais e desenvolvimento comunitário.",
+              descricao: "Mais de 3 anos de experiência em gestão de projectos sociais e desenvolvimento comunitário.",
               username: null,
               senha: "",
               foto_perfil: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
@@ -937,7 +954,7 @@ function App() {
             id: 1,
             nome: "Ana Silva",
             cargo: "Directora Executiva",
-            descricao: "Mais de 15 anos de experiência em gestão de projectos sociais e desenvolvimento comunitário.",
+            descricao: "Mais de 3 anos de experiência em gestão de projectos sociais e desenvolvimento comunitário.",
             username: null,
             senha: "",
             foto_perfil: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
@@ -1437,7 +1454,7 @@ function App() {
                 Associação Moçambicana de Desenvolvimento Sustentável
               </h1>
               <p className="text-lg md:text-xl text-white mb-6 max-w-2xl">
-                Agir para impactar
+                Agir para Impactar
               </p>
               <a 
                 href="#sobre"
@@ -1579,7 +1596,10 @@ function App() {
                   <div className="mb-6">
                     {area.icon}
                   </div>
-                  <h3 className="text-xl font-bold mb-4 text-gray-900 dark:text-white">{area.title}</h3>
+                  <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">{area.title}</h3>
+                  {area.objective && (
+                    <p className="text-gray-600 dark:text-gray-300 mb-4 text-sm">{area.objective}</p>
+                  )}
                   <ul className="space-y-3">
                     {area.items.map((item, i) => (
                       <li key={i} className="flex items-start space-x-2 text-gray-600 dark:text-gray-300">
@@ -1769,7 +1789,7 @@ function App() {
                   <div className="text-cyan-700 dark:text-cyan-100">{t('quemSomos.estatisticas.familias')}</div>
                 </div>
                 <div className="text-center p-6 bg-cyan-50 dark:bg-cyan-700 rounded-lg">
-                  <div className="text-4xl font-bold text-cyan-500">5</div>
+                  <div className="text-4xl font-bold text-cyan-500">7</div>
                   <div className="text-cyan-700 dark:text-cyan-100">{t('quemSomos.estatisticas.areas')}</div>
                 </div>
                 <div className="text-center p-6 bg-cyan-50 dark:bg-cyan-700 rounded-lg">
@@ -2079,7 +2099,7 @@ function App() {
 
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div className="text-center p-6 bg-cyan-50 dark:bg-cyan-700 rounded-lg">
-                  <div className="text-4xl font-bold text-cyan-500">12+</div>
+                  <div className="text-4xl font-bold text-cyan-500">3+</div>
                   <div className="text-cyan-700 dark:text-cyan-100">{t('sobre.estatisticas.anosExperiencia')}</div>
                 </div>
                 <div className="text-center p-6 bg-cyan-50 dark:bg-cyan-700 rounded-lg">
@@ -2373,7 +2393,7 @@ function App() {
                 </a>
               </div>
               <h5 className="text-cyan-300 font-semibold mb-2">Associação  Moçambicana de Desenvolvimento Sustentável</h5>
-              <p className="text-cyan-400">Agir para impactar</p>
+              <p className="text-cyan-400">Agir para Impactar</p>
             </div>
 
             {/* Coluna 2 - Links Rápidos */}
@@ -2412,7 +2432,7 @@ function App() {
                 
                 <p className="flex items-center space-x-3 text-cyan-400">
                   <Mail className="w-5 h-5 flex-shrink-0" />
-                  <span className="break-all">contacto@amodes.com</span>
+                  <span className="break-all">amodesassociacao@gmail.com</span>
                 </p>
                 <p className="flex items-center space-x-3 text-cyan-400">
                   <MapPin className="w-5 h-5" />
